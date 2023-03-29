@@ -31,6 +31,7 @@ function corregir(){
     for (i=0; i < correctas.length;i++){
         if(correctas[i]==opcion_elegida[i]){
             cantidad_correctas++;
+            
         }
     }
 
