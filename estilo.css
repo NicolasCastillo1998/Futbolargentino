@@ -38,6 +38,7 @@ label:hover{
     background: #cec0fc;
 }
 button{
+
     width: 80%;
     display: block;
     margin: auto;
@@ -49,13 +50,16 @@ button{
     border-radius: 20px;
 }
 button:hover{
+
     background: #000;
     color: #fff;
 }
 h2{
+
     text-align: center;
 }
 #resultado{
+    
     font-size: 30px;
     color: darkred;
     
